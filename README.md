@@ -22,7 +22,7 @@ Oi (novamente), meu nome é Daví Teixeira Versiani, um estudante de programaç�
 - 🖥 Gosto de aprender sobre computador e tenho um breve conhecimento em montagem e manutenção; 
 - 👯 Estudo no curso Capybara Codes do grande professor de português Adail;
 - 📫 Pode me contatar pelo: davitvjozep@gmail.com;
-- 📱[Retrato muito bala do meu gato](blob:https://web.telegram.org/31b798b8-ebb8-43bc-a585-9222955736c7)
+- 📱[Retrato muito bala do meu gato](https://web.telegram.org/31b798b8-ebb8-43bc-a585-9222955736c7)
 
 **Linguagens que estou aprendendo ou já aprendi o básico:**  
 
