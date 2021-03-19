@@ -15,7 +15,7 @@
 
 Oi (novamente), meu nome é Daví Teixeira Versiani, um estudante de programação 🚀 de Minas Gerais, estou no início na minha jornada de aprendizagem em programação/desenvolvimento.
 
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+  <img align="right" alt="GIF" src="https://i.gifer.com/4V0V.gif" />
 
 **Fatos irrelevantes sobre mim:**
 
